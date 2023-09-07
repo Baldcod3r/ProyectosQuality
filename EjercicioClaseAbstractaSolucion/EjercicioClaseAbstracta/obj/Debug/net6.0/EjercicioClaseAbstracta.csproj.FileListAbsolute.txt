@@ -1,0 +1,15 @@
+C:\Users\Agustin\Desktop\EjercicioFigura\EjercicioClaseAbstractaSolucion\EjercicioClaseAbstracta\bin\Debug\net6.0\EjercicioClaseAbstracta.exe
+C:\Users\Agustin\Desktop\EjercicioFigura\EjercicioClaseAbstractaSolucion\EjercicioClaseAbstracta\bin\Debug\net6.0\EjercicioClaseAbstracta.deps.json
+C:\Users\Agustin\Desktop\EjercicioFigura\EjercicioClaseAbstractaSolucion\EjercicioClaseAbstracta\bin\Debug\net6.0\EjercicioClaseAbstracta.runtimeconfig.json
+C:\Users\Agustin\Desktop\EjercicioFigura\EjercicioClaseAbstractaSolucion\EjercicioClaseAbstracta\bin\Debug\net6.0\EjercicioClaseAbstracta.dll
+C:\Users\Agustin\Desktop\EjercicioFigura\EjercicioClaseAbstractaSolucion\EjercicioClaseAbstracta\bin\Debug\net6.0\EjercicioClaseAbstracta.pdb
+C:\Users\Agustin\Desktop\EjercicioFigura\EjercicioClaseAbstractaSolucion\EjercicioClaseAbstracta\obj\Debug\net6.0\EjercicioClaseAbstracta.csproj.AssemblyReference.cache
+C:\Users\Agustin\Desktop\EjercicioFigura\EjercicioClaseAbstractaSolucion\EjercicioClaseAbstracta\obj\Debug\net6.0\EjercicioClaseAbstracta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agustin\Desktop\EjercicioFigura\EjercicioClaseAbstractaSolucion\EjercicioClaseAbstracta\obj\Debug\net6.0\EjercicioClaseAbstracta.AssemblyInfoInputs.cache
+C:\Users\Agustin\Desktop\EjercicioFigura\EjercicioClaseAbstractaSolucion\EjercicioClaseAbstracta\obj\Debug\net6.0\EjercicioClaseAbstracta.AssemblyInfo.cs
+C:\Users\Agustin\Desktop\EjercicioFigura\EjercicioClaseAbstractaSolucion\EjercicioClaseAbstracta\obj\Debug\net6.0\EjercicioClaseAbstracta.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\Desktop\EjercicioFigura\EjercicioClaseAbstractaSolucion\EjercicioClaseAbstracta\obj\Debug\net6.0\EjercicioClaseAbstracta.dll
+C:\Users\Agustin\Desktop\EjercicioFigura\EjercicioClaseAbstractaSolucion\EjercicioClaseAbstracta\obj\Debug\net6.0\refint\EjercicioClaseAbstracta.dll
+C:\Users\Agustin\Desktop\EjercicioFigura\EjercicioClaseAbstractaSolucion\EjercicioClaseAbstracta\obj\Debug\net6.0\EjercicioClaseAbstracta.pdb
+C:\Users\Agustin\Desktop\EjercicioFigura\EjercicioClaseAbstractaSolucion\EjercicioClaseAbstracta\obj\Debug\net6.0\EjercicioClaseAbstracta.genruntimeconfig.cache
+C:\Users\Agustin\Desktop\EjercicioFigura\EjercicioClaseAbstractaSolucion\EjercicioClaseAbstracta\obj\Debug\net6.0\ref\EjercicioClaseAbstracta.dll

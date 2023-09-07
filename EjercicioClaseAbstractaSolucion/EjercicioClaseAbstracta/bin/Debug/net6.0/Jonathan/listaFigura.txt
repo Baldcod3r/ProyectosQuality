@@ -1,0 +1,17 @@
+Rectángulo
+12
+9
+16:03
+Círculo
+18,84955592153876
+28,274333882308138
+16:03
+Cuadrado
+12
+9
+16:03
+
+0
+0
+16:03
+añadimos texto al archivo, sino existe creará uno nuevo
